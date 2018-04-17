@@ -1,7 +1,7 @@
 /****************************************************************
     	File Name    : flyweight.cpp
     	Author       : Jun Zhang
-    	Mail         : zhangjun9@staff.weibo.com 
+    	Mail         : ewalker.zj@gmail.com 
     	Created Time : 2018-01-10 11-02
 *****************************************************************/
 #include<string>

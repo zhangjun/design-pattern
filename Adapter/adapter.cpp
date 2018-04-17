@@ -1,7 +1,7 @@
 /****************************************************************
     	File Name    : adapter.cpp
     	Author       : Jun Zhang
-	Mail         : zhangjun9@staff.weibo.com 
+	Mail         : ewalker.zj@gmail.com 
 	Created Time : 2018-01-07 10-13
 *****************************************************************/
 

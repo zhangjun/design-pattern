@@ -1,6 +1,6 @@
 /*******************************************
    Author        : Jun Zhang
-   Email         : zhangjun9@staff.weibo.com
+   Email         : ewalker.zj@gmail.com
    Last Modified : 2017-08-14 11:05
    Filename      : factory.cpp
    Description   : 
