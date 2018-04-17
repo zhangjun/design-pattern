@@ -1,8 +1,8 @@
 /****************************************************************
-    File Name    : flyweight.cpp
-    Author       : Jun Zhang
-	Mail         : zhangjun9@staff.weibo.com 
-	Created Time : 2018-01-10 11-02
+    	File Name    : flyweight.cpp
+    	Author       : Jun Zhang
+    	Mail         : zhangjun9@staff.weibo.com 
+    	Created Time : 2018-01-10 11-02
 *****************************************************************/
 #include<string>
 #include<map>"

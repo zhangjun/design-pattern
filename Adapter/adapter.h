@@ -1,6 +1,6 @@
 /****************************************************************
-    File Name    : adapter.h
-    Author       : Jun Zhang
+    	File Name    : adapter.h
+    	Author       : Jun Zhang
 	Mail         : zhangjun9@staff.weibo.com 
 	Created Time : 2018-01-07 10-06
 *****************************************************************/
